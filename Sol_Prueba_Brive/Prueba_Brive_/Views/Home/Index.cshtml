@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Entity_Brive.EBrive>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2></h2>
+
+<p>
+
+    @Html.ActionLink("Agregar nuevo producto", "Agregar")
+</p>
+
+<div class="input-group mb-4">
+
+    <input type="text" class="form-control" name="Valor" id="Valor" />
+    <input class="btn btn-outline-dark" type="submit" name="Buscar" value="Buscar" formaction="/Home/Buscar" />
+
+
+</div>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre_Prod)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Codigo_B)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Canti)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Precio_U)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sucursal)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre_Prod)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Codigo_B)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Canti)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio_U)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sucursal)
+            </td>
+            <td>
+                <a href="/Home/Editar/@item.Id " class="btn btn-success">Editar</a>
+                <a onclick="return Eliminar(@item.Id)" class="btn btn-danger">Eliminar</a>
+            </td>
+        </tr>
+    }
+
+</table>

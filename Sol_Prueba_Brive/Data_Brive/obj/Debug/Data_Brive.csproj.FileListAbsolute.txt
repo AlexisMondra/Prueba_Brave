@@ -1,0 +1,12 @@
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Data_Brive\bin\Debug\Data_Brive.dll
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Data_Brive\bin\Debug\Data_Brive.pdb
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Data_Brive\obj\Debug\Data_Brive.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Data_Brive\obj\Debug\Data_Brive.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Data_Brive\obj\Debug\Data_Brive.dll
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Data_Brive\obj\Debug\Data_Brive.pdb
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Data_Brive\bin\Debug\Data_Brive.dll
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Data_Brive\bin\Debug\Data_Brive.pdb
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Data_Brive\obj\Debug\Data_Brive.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Data_Brive\obj\Debug\Data_Brive.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Data_Brive\obj\Debug\Data_Brive.dll
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Data_Brive\obj\Debug\Data_Brive.pdb

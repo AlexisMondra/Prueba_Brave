@@ -1,0 +1,12 @@
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Entity_Brive\bin\Debug\Entity_Brive.dll
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Entity_Brive\bin\Debug\Entity_Brive.pdb
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Entity_Brive\obj\Debug\Entity_Brive.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Entity_Brive\obj\Debug\Entity_Brive.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Entity_Brive\obj\Debug\Entity_Brive.dll
+C:\Users\alexi\source\repos\Sol_Prueba_Brive\Entity_Brive\obj\Debug\Entity_Brive.pdb
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Entity_Brive\bin\Debug\Entity_Brive.dll
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Entity_Brive\bin\Debug\Entity_Brive.pdb
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Entity_Brive\obj\Debug\Entity_Brive.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Entity_Brive\obj\Debug\Entity_Brive.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Entity_Brive\obj\Debug\Entity_Brive.dll
+C:\Users\alexi\OneDrive\Escritorio\Prueba_Brave\Sol_Prueba_Brive\Entity_Brive\obj\Debug\Entity_Brive.pdb
